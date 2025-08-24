@@ -48,4 +48,6 @@ This project was inspired by the NeuralNine YouTube tutorial:
 
 Tutorial Video: [Titanic Survival Prediction in Python - Machine Learning Project](https://www.youtube.com/watch?v=fATVVQfFyU0)
 
+<!--- [![](https://utfs.io/f/nGnSqDveMsqxPvBcKMfQjDZ8IlKFEzykOu1wNx2ogHMis4LJ)](https://www.youtube.com/watch?v=fATVVQfFyU0) --->
+
 YouTube Channel: [NeuralNine](https://www.youtube.com/@NeuralNine)
