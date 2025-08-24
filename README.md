@@ -26,19 +26,21 @@ The project uses the `train.csv` (for training) and `test.csv`  (for prediction)
 
 ## Requirements
 
-Python libraries required:
+To run this notebook, you will need to have the following Python libraries installed. You can install them using `pip`:
 
+```console
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
-How to Run
+## How to Run
 
-Clone this repository to your local machine.
+**1.** Clone this repository to your local machine.
 
-Download train.csv and test.csv from Kaggle and place them in a folder named datasets in the project directory.
+**2.** Download `train.csv` and `test.csv` from Kaggle and place them in a folder named `datasets` in the project directory.
 
-Open the notebook titanic_analysis_survival_prediction.ipynb in a Jupyter environment (Jupyter Notebook, JupyterLab, or VS Code).
+**3.** Open the notebook `titanic_analysis_survival_prediction.ipynb` in a Jupyter environment (Jupyter Notebook, JupyterLab, or VS Code).
 
-Run the cells sequentially to reproduce the analysis and predictions.
+**4.** Run the cells sequentially to reproduce the analysis and predictions.
 
 ## References & Credits
 
@@ -46,4 +48,4 @@ This project was inspired by the NeuralNine YouTube tutorial:
 
 Tutorial Video: [Titanic Survival Prediction in Python - Machine Learning Project](https://www.youtube.com/watch?v=fATVVQfFyU0)
 
-YouTube Channel: NeuralNine 
+YouTube Channel: [NeuralNine](https://www.youtube.com/@NeuralNine)
