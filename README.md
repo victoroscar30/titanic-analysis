@@ -1,8 +1,8 @@
-Titanic Survival Analysis and Prediction 🚢
+# Titanic Survival Analysis and Prediction 🚢
 
 This project is an Exploratory Data Analysis (EDA) and Machine Learning study aimed at predicting the survival of Titanic passengers. It was developed as part of a Kaggle challenge and follows a step-by-step YouTube tutorial.
 
-Project Overview
+## Project Overview
 
 The main goal of this project is to build a predictive model that estimates whether a passenger survived the Titanic disaster, based on historical data. The workflow includes:
 
@@ -45,7 +45,7 @@ Run the cells sequentially to reproduce the analysis and predictions.
 
 References & Credits
 
-This project was inspired by the Python Programmer YouTube tutorial:
+This project was inspired by the NeuralNine YouTube tutorial:
 
 Tutorial Video: Titanic Kaggle Tutorial https://www.kaggle.com/competitions/titanic/overview
 
