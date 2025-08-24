@@ -40,10 +40,10 @@ Open the notebook titanic_analysis_survival_prediction.ipynb in a Jupyter enviro
 
 Run the cells sequentially to reproduce the analysis and predictions.
 
-References & Credits
+## References & Credits
 
 This project was inspired by the NeuralNine YouTube tutorial:
 
-Tutorial Video: Titanic Kaggle Tutorial 
+Tutorial Video: [Titanic Survival Prediction in Python - Machine Learning Project](https://www.youtube.com/watch?v=fATVVQfFyU0)
 
-YouTube Channel: NeuralNine https://www.youtube.com/watch?v=fATVVQfFyU0
+YouTube Channel: NeuralNine 
