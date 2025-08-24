@@ -47,6 +47,6 @@ References & Credits
 
 This project was inspired by the Python Programmer YouTube tutorial:
 
-Tutorial Video: Titanic Kaggle Tutorial
+Tutorial Video: Titanic Kaggle Tutorial https://www.kaggle.com/competitions/titanic/overview
 
 YouTube Channel: NeuralNine https://www.youtube.com/watch?v=fATVVQfFyU0
