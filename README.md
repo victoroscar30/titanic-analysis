@@ -20,7 +20,7 @@ The main goal of this project is to build a predictive model that estimates whet
 
 ## Dataset
 
-The dataset used is the "Titanic - Machine Learning from Disaster" challenge from Kaggle, available [here](https://www.kaggle.com/competitions/titanic/overview)
+The dataset used is the "Titanic - Machine Learning from Disaster" challenge from Kaggle, available [here](https://www.kaggle.com/competitions/titanic/overview).
 
 The project uses the `train.csv` (for training) and `test.csv`  (for prediction) files.
 
