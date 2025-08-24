@@ -6,28 +6,25 @@ This project is an Exploratory Data Analysis (EDA) and Machine Learning study ai
 
 The main goal of this project is to build a predictive model that estimates whether a passenger survived the Titanic disaster, based on historical data. The workflow includes:
 
-Exploratory Data Analysis (EDA): Understand the dataset, visualize distributions, and identify correlations between features.
+* Exploratory Data Analysis (EDA): Understand the dataset, visualize distributions, and identify correlations between features.
 
-Data Preprocessing and Cleaning: Handle missing values, encode categorical variables, and remove irrelevant columns.
+* Data Preprocessing and Cleaning: Handle missing values, encode categorical variables, and remove irrelevant columns.
 
-Pipeline Building: Create a consistent processing pipeline for data preparation.
+* Pipeline Building: Create a consistent processing pipeline for data preparation.
 
-Model Training: Train a RandomForestClassifier model to predict survival.
+* Model Training: Train a `RandomForestClassifier` model to predict survival.
 
-Hyperparameter Optimization: Use GridSearchCV with cross-validation to find the best model parameters.
+* Hyperparameter Optimization: Use `GridSearchCV` with cross-validation to find the best model parameters.
 
-Prediction Generation: Produce the final predictions for submission to Kaggle.
+* Prediction Generation: Produce the final predictions for submission to Kaggle.
 
-Dataset
+## Dataset
 
-The project uses the "Titanic - Machine Learning from Disaster" dataset from Kaggle:
-Kaggle Dataset Link
+The dataset used is the "Titanic - Machine Learning from Disaster" challenge from Kaggle, available [here](https://www.kaggle.com/competitions/titanic/overview)
 
-train.csv – used for training the model
+The project uses the `train.csv` (for training) and `test.csv`  (for prediction) files.
 
-test.csv – used for generating predictions
-
-Requirements
+## Requirements
 
 Python libraries required:
 
@@ -47,6 +44,6 @@ References & Credits
 
 This project was inspired by the NeuralNine YouTube tutorial:
 
-Tutorial Video: Titanic Kaggle Tutorial https://www.kaggle.com/competitions/titanic/overview
+Tutorial Video: Titanic Kaggle Tutorial 
 
 YouTube Channel: NeuralNine https://www.youtube.com/watch?v=fATVVQfFyU0
